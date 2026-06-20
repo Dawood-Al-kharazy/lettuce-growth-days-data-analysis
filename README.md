@@ -16,7 +16,7 @@
 **Data sources:** https://www.kaggle.com/datasets/jurijsruko/lettuce/data
 
 ## Formulate SMART questions
-1. How did temperature levels in August affect the crop growth period?
+1. Is there a statistically significant correlation between average daily temperatures exceeding 30°C in August and the growth period extending beyond 20 days?
 2. If crops were grown at a high level of humidity, how many more days would the crops grow compared to the number of days if the crops were grown at a low level of humidity?
 3. If the period of planting crops is on sunny days, will there be a decrease in the number of growing days by more than 5 days, compared to cloudy days?
 4. Is there any relationship between pH levels higher than 6.2 and crops growing more than 5 days slower?
