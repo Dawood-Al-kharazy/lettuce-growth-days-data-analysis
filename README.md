@@ -64,3 +64,9 @@ This project aims to define the main factors that caused the slowdown of the let
 | Final report | 30/7/2026 | Final report detailing all work, analysis, methodologies, and findings |
 
 **Estimated date for completion:** 1 August 2026
+
+## Key Insights
+Here I'll write down the key insights that I would have found in the future.
+
+## Key Recommendations
+Here I'll write down the recommendations that I would recommend in the future after completing data analysis.
